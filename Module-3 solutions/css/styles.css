@@ -1,0 +1,40 @@
+#header-nav{
+	background-color: blue;}
+
+.navbar-brand h1{
+	font-family: Helvatica, sans-serif;
+	color: #e2e325;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #ddd;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+
+}
+.navbar-brand a:hover, navbar-brand a:focus {
+	text-decoration: none;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #12ef23;
+}
+
+h2.text-center{
+	color: #000;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 5px;
+}
+section p{
+	height: 1000px;
+	background-color: #888;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#collapsable-nav ul li a {
+	font-size: 20px;
+	font-weight: bold;
+	color: #eee;
+}
